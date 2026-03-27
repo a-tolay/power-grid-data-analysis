@@ -24,5 +24,5 @@ The dataset consists of four distinct CSV files, each containing power generatio
 
 ## How to Run
 1. Clone this repository to your local machine.
-2. Ensure you have Python and Jupyter Notebook installed, along with the required libraries (`pandas`, `numpy`, `matplotlib`).
-3. Run the `Pyhton_ile_Veri_Analizi_Odev_3(Jupyter).ipynb` file to view the analysis steps and outputs.
+2. Ensure you have Python installed, along with the required libraries (`pandas`, `numpy`, `matplotlib`).
+3. Run the `Power_grid_data_analysis_code.py` file to view the analysis steps and outputs.
