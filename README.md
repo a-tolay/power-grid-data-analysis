@@ -7,8 +7,7 @@ As an Electrical Engineering student, this project aims to combine my domain kno
 
 ## Technologies Built With
 * **Language:** Python
-* **Environment:** Jupyter Notebook
-* **Libraries:** Pandas, NumPy, Matplotlib
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 ## Dataset Information
 The dataset consists of four distinct CSV files, each containing power generation/consumption data from a specific TSO in Germany:
@@ -24,5 +23,5 @@ The dataset consists of four distinct CSV files, each containing power generatio
 
 ## How to Run
 1. Clone this repository to your local machine.
-2. Ensure you have Python installed, along with the required libraries (`pandas`, `numpy`, `matplotlib`).
+2. Ensure you have Python installed, along with the required libraries (`pandas`, `numpy`, `matplotlib`,`seaborn`).
 3. Run the `Power_grid_data_analysis_code.py` file to view the analysis steps and outputs.
